@@ -8,7 +8,7 @@ Bootstrap Site - a [Middleman](http://middlemanapp.com/) extension.
 *1) Install this template in: ~/.middleman *You can also just Fork it. *
 
 ```bash
-git clone git@bitbucket.com:depointless/bootstrap-site.git ~/.middleman/bootstrap-site
+git clone https://github.com/depointless/bootstrap-site.git ~/.middleman/bootstrap-site
 ```
 
 *2) Create a new project:*
@@ -16,7 +16,7 @@ git clone git@bitbucket.com:depointless/bootstrap-site.git ~/.middleman/bootstra
 ```bash
 #In console, replace 'project-name' with your own
 middleman init project-name --template=bootstrap-site
-cd nombre-sitio
+cd project-name
 bundle install  # Install dependencies
 ```
 
