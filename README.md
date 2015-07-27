@@ -5,7 +5,7 @@ Bootstrap Template for Middleman - Haml
 
 Bootstrap Site - a [Middleman](http://middlemanapp.com/) extension.
 
-**1) Install this template in: ~/.middleman *You can also just Fork it. **
+*1) Install this template in: ~/.middleman *You can also just Fork it. *
 
 ```bash
 git clone git@bitbucket.com:depointless/bootstrap-site.git ~/.middleman/bootstrap-site
@@ -20,12 +20,12 @@ cd nombre-sitio
 bundle install  # Install dependencies
 ```
 
-*Requirements*
+## Requirements
 
-*Ruby (pre-instaleld on Mac)*
-*Rubygems (pre-instaleld on Mac)*
-*Bundler (http://bundler.io)*
-*Git*
+- Ruby (pre-instaleld on Mac)
+- Rubygems (pre-instaleld on Mac)
+- Bundler (http://bundler.io)
+- Git
 
 Install Middleman**
 
@@ -38,7 +38,7 @@ More info in: http://middlemanapp.com/basics/getting-started/.
 
 ## Features
 
-*Bootstrap
-*Font-Awesome
-*jQuery
-*lodash
+- [Bootstrap](http://getbootstrap.com/)
+- [Font-Awesome] (http://fortawesome.github.io/Font-Awesome/)
+- [jQuery] (https://jquery.com/)
+- [lodash] (https://lodash.com/)
