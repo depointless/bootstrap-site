@@ -42,3 +42,4 @@ More info in: http://middlemanapp.com/basics/getting-started/.
 - [Font-Awesome] (http://fortawesome.github.io/Font-Awesome/)
 - [jQuery] (https://jquery.com/)
 - [lodash] (https://lodash.com/)
+- [Haml] (http://haml.info/)
