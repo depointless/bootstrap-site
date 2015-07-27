@@ -28,7 +28,7 @@ bundle install  # Install dependencies
 - Bundler (http://bundler.io)
 - Git
 
-Install Middleman**
+*Install Middleman*
 
 ```bash
 # In console, type:
