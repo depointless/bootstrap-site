@@ -5,7 +5,7 @@ Bootstrap Template for Middleman - Haml
 
 Bootstrap Site - a [Middleman](http://middlemanapp.com/) extension.
 
-*1) Install this template in: ~/.middleman *You can also just Fork it. *
+*1) Install this template in: ~/.middleman *You can also just Fork it.*
 
 ```bash
 git clone https://github.com/depointless/bootstrap-site.git ~/.middleman/bootstrap-site
