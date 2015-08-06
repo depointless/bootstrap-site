@@ -24,11 +24,12 @@ end
 case ENV['TARGET'].to_s.downcase
   when 'production'
     activate :deploy do |deploy|
-    deploy.method   = :ftp
+    deploy.port     = 22
+    deploy.method   = :sftp
     deploy.host     = 'IP'
-    deploy.path     = 'public_html/'
+    deploy.path     = '/public_html/'
     deploy.user     = 'user'
-    deploy.password = 'pass'
+    deploy.password = 'optional'
     end
   else
     activate :deploy do |deploy|
