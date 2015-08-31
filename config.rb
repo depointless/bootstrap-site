@@ -24,7 +24,8 @@ end
 case ENV['TARGET'].to_s.downcase
   when 'production'
     activate :deploy do |deploy|
-    deploy.method = :rsync
+    # remove these comments for rsync
+    # deploy.method = :rsync 
     # deploy.build_before = true
     # deploy.host = '45.55.240.255'
     # deploy.path = '/var/www/site.com'
