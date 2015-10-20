@@ -1,5 +1,5 @@
 !!!
-%html(lang='es')
+%html(lang='es' ng-app)
   %head
 
     %meta{:charset => 'utf-8'}
@@ -16,9 +16,6 @@
     = stylesheet_link_tag 'all'
 
   %body
-    = partial 'partial/header'
-    = partial 'sidebar'
     = yield
-    = partial 'partial/footer'
     
     = javascript_include_tag 'all'
