@@ -10,6 +10,8 @@
     %meta(property = 'og:title' content = 'title' )
     %meta(property = 'og:image' content = 'http://site.com/img/fb.png' )
     %meta(property = 'og:description' content = 'desc')
+    %meta(name = 'Site name' )
+    %meta(name = 'keywords' content = 'keywords' )
 
     %title 
       = current_page.data.title || 'Title'
@@ -17,5 +19,4 @@
 
   %body
     = yield
-    
     = javascript_include_tag 'all'
