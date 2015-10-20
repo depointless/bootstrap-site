@@ -1,5 +1,5 @@
 # Bootstrap Site
-Bootstrap Template for Middleman - Haml
+Angular - Bootstrap Template for Middleman
 
 ## Instalation
 
@@ -39,8 +39,9 @@ More info in: http://middlemanapp.com/basics/getting-started/.
 
 ## Features
 
-- [Bootstrap](http://getbootstrap.com/)
+- [Bootstrap] (http://getbootstrap.com/)
 - [Font-Awesome] (http://fortawesome.github.io/Font-Awesome/)
 - [jQuery] (https://jquery.com/)
-- [lodash] (https://lodash.com/)
+- [Angular](https://angularjs.org/)
+- [Underscore] (http://underscorejs.org/)
 - [Haml] (http://haml.info/)
