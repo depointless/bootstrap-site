@@ -39,8 +39,12 @@ More info in: http://middlemanapp.com/basics/getting-started/.
 
 ## Features
 
+- [Angular] (https://angularjs.org/)
+- [Angulartics](https://github.com/angulartics/angulartics)
+- [Angular Scroll] (https://github.com/oblador/angular-scroll)
+- [Angular Parallax] (https://github.com/brettdonohoo/angular-parallax)
+- [NgMap] (https://ngmap.github.io/)
 - [Bootstrap] (http://getbootstrap.com/)
 - [Font-Awesome] (http://fortawesome.github.io/Font-Awesome/)
-- [Angular](https://angularjs.org/)
 - [Underscore] (http://underscorejs.org/)
 - [Haml] (http://haml.info/)
